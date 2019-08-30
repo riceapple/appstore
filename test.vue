@@ -1,1 +1,1 @@
-test.com
+test.com.info对的
